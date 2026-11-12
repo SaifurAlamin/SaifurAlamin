@@ -61,3 +61,31 @@ I’m a Full Stack Developer passionate about building modern, scalable, and use
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SaifurAlamin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SaifurAlamin&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifurAlamin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=SaifurAlamin&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
