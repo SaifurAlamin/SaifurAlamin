@@ -54,7 +54,7 @@ I’m a Full Stack Developer passionate about building modern, scalable, and use
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-087F5B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saifurportfolio.netlify.app)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/saifur-rahman/](https://www.linkedin.com/in/saifur-rahman-4a158734a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifur-rahman-4a158734a/))
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaifurAlamin)
 
